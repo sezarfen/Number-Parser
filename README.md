@@ -17,8 +17,11 @@
 
 > Sample output for Turkish, English and Deutsch parser
 
+Turkish
 ![image](https://user-images.githubusercontent.com/110563468/233776548-6df5ae4f-dca4-4d36-8032-e2e17b5ddc57.png)
 
+English
 ![image](https://user-images.githubusercontent.com/110563468/233776454-84e61acb-fc68-4d28-93de-4ea69a17b61a.png)
 
+Deutsch
 ![image](https://user-images.githubusercontent.com/110563468/233776635-95185906-6085-4c89-952a-193900449f3d.png)
