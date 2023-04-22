@@ -14,3 +14,6 @@
 > Main ideas and approaches are mentioned above. Except this,
 > Each language has some similarities, you can always welcome to
 > improve the code and add new language supports
+
+*Sample output for english parser*
+![image](https://user-images.githubusercontent.com/110563468/233776454-84e61acb-fc68-4d28-93de-4ea69a17b61a.png)
