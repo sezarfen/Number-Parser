@@ -1,5 +1,3 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "number_parser.h"
 
 int	*number_parser_deutsch(char *str)
