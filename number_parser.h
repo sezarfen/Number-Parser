@@ -1,5 +1,8 @@
 #ifndef NUMBER_PARSER_H
-#define NUMBER_PARSER_H
+# define NUMBER_PARSER_H
+
+# include <stdio.h>
+# include <stdlib.h>
 
 int	f_strlen(char *str);
 int	f_power(int base, int power);
